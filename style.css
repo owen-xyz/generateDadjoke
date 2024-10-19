@@ -1,0 +1,15 @@
+body{
+    background-color: #e2d193;
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    
+}
+li{
+    list-style: none;
+    font-size:1.5rem ;
+    
+}
+ul{
+    background-color: aliceblue;
+}
